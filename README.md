@@ -55,7 +55,7 @@ module exp10(clk, sin, q);
     end
 endmodule
 ```
-Developed by:OBELESH R RegisterNumber: 24901123
+Developed by:gokulan R RegisterNumber: 24900991
 */
 
 **RTL LOGIC FOR SISO Shift Register**
